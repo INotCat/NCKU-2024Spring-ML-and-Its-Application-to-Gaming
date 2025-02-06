@@ -1,4 +1,5 @@
 # Arkanoid 打磚塊
+Finish the game using supervised learning in the class
 
 <img src="https://raw.githubusercontent.com/PAIA-Playful-AI-Arena/Paia-Desktop/master/media/arkanoid.svg" alt="logo" width="100"/> 
 
