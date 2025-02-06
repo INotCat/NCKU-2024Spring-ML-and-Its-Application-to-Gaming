@@ -1,4 +1,7 @@
 # TankMan
+Compete with other tanks using ML in this class
+
+
 ## 遊戲說明
 <img src="https://raw.githubusercontent.com/Jesse-Jumbo/TankMan/49dc8cb825ddd8dea61936fb6d339c846fe68d6c/asset/image/TankMan.svg" alt="logo" width="100"/> 
 
@@ -127,7 +130,3 @@ python -m mlgame -f 120 -i  ml/ml_play.py -i ml/ml_play.py . --green_team_num 1 
 # sound sours
 - [BGM](https://opengameart.org/content/commando-team-action-loop-cut)
 - [SHOOT](https://opengameart.org/content/random-low-quality-sfx)
-# Reinforcement-Learning-TankMan
-# Reinforcement-Learning-TankMan
-# Reinforcement-Learning-TankMan
-# Reinforcement-Learning-TankMan
